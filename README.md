@@ -1,6 +1,8 @@
 # HelloWorld
 Write Hello World program in programming languages
 
+![HelloWorld Image](helloworld.jpg)
+
 ## How to Contribute
 - Fork this repository
 
