@@ -3,6 +3,67 @@ Write Hello World program in programming languages
 
 ![HelloWorld Image](helloworld.jpg)
 
+Here is a task list of languages that you can add to:
+
+- [ ] Ada
+- [ ] ASP
+- [ ] Autolt
+- [x] Android
+- [x] AppleScript
+- [x] Assembly
+- [x] B
+- [x] Basic
+- [x] Bash
+- [x] Blade
+- [x] Brainfuck
+- [x] C#
+- [x] C
+- [x] C++
+- [ ] Caml
+- [ ] Cmake
+- [ ] COBOL
+- [ ] CoffeeScript
+- [ ] D
+- [ ] Diff
+- [x] Dart
+- [x] F#
+- [ ] Fortran
+- [x] Go
+- [x] HTML
+- [x] Javascript
+- [x] JSP
+- [x] Java
+- [x] Julia
+- [x] Kotlin
+- [ ] Lisp
+- [ ] Lua
+- [ ] Matlab
+- [x] Objective-C
+- [x] PHP
+- [ ] Pascal
+- [x] Perl
+- [x] PowerShell
+- [x] Purescript
+- [ ] PostScript
+- [x] Python
+- [x] R
+- [x] Ruby
+- [x] Rust
+- [ ] Scheme
+- [ ] Smalltalk
+- [x] Shell
+- [x] ShellScript
+- [x] Swift
+- [ ] TCL
+- [ ] Tex
+- [ ] VB
+- [ ] VHDL
+- [ ] Verilog
+- [x] WebAssembly
+- [x] Haskell
+
+
+
 ## How to Contribute
 - Fork this repository
 
