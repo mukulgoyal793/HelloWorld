@@ -3,18 +3,20 @@ Write Hello World program in any programming language
 
 ![HelloWorld Image](helloworld.jpg)
 
+
 ## How to Contribute
-- Fork this repository
+1. Fork this repository
 
-- Clone your forked repository on your system</br>
-  `git clone https://github.com/your-username/HelloWorld.git`
+2. Clone your forked repository on your system</br>
+   `git clone https://github.com/your-username/HelloWorld.git`
 
-- Add your program in any programming language
+3. Add your program in any programming language
 
-- Push your changes to the master branch</br>
-  `git push origin master`
+4. Push your changes to the master branch</br>
+   `git push origin master`
 
-- Create a pull request
+5. Create a pull request
+
 
 ## Steps to rebase your forked repository with original repository
 1. Add the remote and call it upstream</br>
