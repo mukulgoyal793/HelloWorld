@@ -6,13 +6,13 @@ Write Hello World program in any programming language
 ## How to Contribute
 - Fork this repository
 
-- Clone your forked repository on your system
-> `git clone https://github.com/your-username/HelloWorld.git`
+- Clone your forked repository on your system</br>
+  `git clone https://github.com/your-username/HelloWorld.git`
 
 - Add your program in any programming language
 
-- Push your changes to the master branch
-> `git push origin master`
+- Push your changes to the master branch</br>
+  `git push origin master`
 
 - Create a pull request
 
