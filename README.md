@@ -1,5 +1,5 @@
 # HelloWorld
-Write Hello World program in programming languages
+Write Hello World program in any programming language
 
 ![HelloWorld Image](helloworld.jpg)
 
